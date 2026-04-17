@@ -7,8 +7,8 @@
       "node_type": "sticker",
       "title": "Sticker",
       "uuid": "c0bb5081b4cd4bfa95db68dc2a76545c",
-      "x": 1932.6813131205438,
-      "y": -55.78543124392591,
+      "x": 1945.5253498177915,
+      "y": -124.59277069346719,
       "width": 400.0,
       "height": 225.0,
       "z_value": 100.0,
@@ -92,9 +92,9 @@
   ],
   "connections": [],
   "viewport": {
-    "camera_x": 1874.3119266055046,
-    "camera_y": -26.605504587155963,
+    "camera_x": 1866.0550458715597,
+    "camera_y": -58.71559633027522,
     "camera_zoom": 1.09
   },
-  "checksum": "de58da4d2ab59209"
+  "checksum": "28dc8d53f1fe188c"
 }
