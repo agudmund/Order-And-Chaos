@@ -67,7 +67,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\Order And Chaos\\There is no hero.mp4",
       "caption": "There is no hero",
       "volume": 50,
-      "playback_pos": 249716,
+      "playback_pos": 258645,
       "looping": false,
       "muted": false,
       "show_border": true,
@@ -93,8 +93,8 @@
   "connections": [],
   "viewport": {
     "camera_x": 1865.137614678899,
-    "camera_y": -355.96330275229354,
+    "camera_y": -59.63302752293578,
     "camera_zoom": 1.09
   },
-  "checksum": "6401f62354480847"
+  "checksum": "d2941393dfb11bc0"
 }
