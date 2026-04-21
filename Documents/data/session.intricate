@@ -25,43 +25,11 @@
     },
     {
       "node_id": 0,
-      "node_type": "about",
-      "title": "Note",
-      "uuid": "296b1fee72704d6c849d64690bbf8c36",
-      "x": 1753.0956763671543,
-      "y": 36.700884535360565,
-      "width": 128.0,
-      "height": 52.0,
-      "z_value": -9.995000000000003,
-      "ports_visible": false,
-      "shelf_visible": false,
-      "label": "Pure Light",
-      "depth_front": false,
-      "node_tint": ""
-    },
-    {
-      "node_id": 0,
-      "node_type": "about",
-      "title": "Need to update the Dank you to the latest",
-      "uuid": "d1562febc1ba441680a4768e87edfc81",
-      "x": 2060.189981987782,
-      "y": 848.5558662655502,
-      "width": 449.73784406726327,
-      "height": 56.727939735476156,
-      "z_value": -9.996000000000002,
-      "ports_visible": false,
-      "shelf_visible": false,
-      "label": "Need to update the Dank you to the latest",
-      "depth_front": false,
-      "node_tint": "#2a3a2f"
-    },
-    {
-      "node_id": 0,
       "node_type": "video",
       "title": "Video",
       "uuid": "76b3ef2c53e1461390750e0efbbe6122",
-      "x": 1440.9439676968605,
-      "y": 286.3435640582811,
+      "x": 1388.2605986916687,
+      "y": 204.25552398042532,
       "width": 357.6383917284538,
       "height": 221.42159534725528,
       "z_value": -9.998000000000001,
@@ -73,11 +41,27 @@
       "source_mtime": 1762679108.3349588,
       "caption": "There is no hero",
       "volume": 50,
-      "playback_pos": 261376,
+      "playback_pos": 269909,
       "looping": false,
       "muted": false,
       "show_border": true,
       "was_playing": true
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Need to update the Dank you to the latest",
+      "uuid": "d1562febc1ba441680a4768e87edfc81",
+      "x": 1499.5926648666587,
+      "y": 439.13085937933624,
+      "width": 435.0405361277585,
+      "height": 37.83140095611245,
+      "z_value": -9.996000000000002,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "Need to update the Dank you to the latest",
+      "depth_front": false,
+      "node_tint": "#2a3a2f"
     },
     {
       "node_id": 0,
@@ -98,12 +82,12 @@
   ],
   "connections": [],
   "viewport": {
-    "camera_x": 1864.2201834862385,
-    "camera_y": -60.55045871559633,
-    "camera_zoom": 1.09
+    "camera_x": 1948.4431096943931,
+    "camera_y": 562.696932541053,
+    "camera_zoom": 0.47627769852903423
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "6cdd9bc9900118f3"
+  "checksum": "a794f081292f8bb6"
 }
