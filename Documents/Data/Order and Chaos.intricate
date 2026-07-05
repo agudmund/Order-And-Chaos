@@ -1,6 +1,8 @@
 {
   "version": "1.0",
+  "display_name": "Order and Chaos",
   "description": "",
+  "description_signature": null,
   "nodes": [
     {
       "node_id": 0,
@@ -14,14 +16,15 @@
       "z_value": 100.0,
       "ports_visible": false,
       "shelf_visible": true,
+      "pinned": false,
+      "pin_vp_x": 0.0,
+      "pin_vp_y": 0.0,
+      "pin_scale": 1.0,
       "cache_key": "282fcc2403ee884f68f0fea31f20ad4535db97f884f1a678651a1154fc999762.png",
       "source_path": "C:\\Users\\thisg\\Desktop\\Order And Chaos\\Order And Chaos.png",
       "source_size": 154763,
       "source_mtime": 1762679107.4190829,
-      "image_b64": "",
-      "pinned": false,
-      "pin_vp_x": 0.0,
-      "pin_vp_y": 0.0
+      "image_b64": ""
     },
     {
       "node_id": 0,
@@ -35,7 +38,7 @@
       "z_value": -9.998000000000001,
       "ports_visible": false,
       "shelf_visible": false,
-      "source_path": "C:\\Users\\thisg\\Desktop\\Order And Chaos\\There is no hero.mp4",
+      "source_path": "Documents/Data/Cache/2744b5957b1c3c11ac53489da4bf322c460c09612bd5ba3e8d1cdf7470bdce46.mp4",
       "cache_key": "2744b5957b1c3c11ac53489da4bf322c460c09612bd5ba3e8d1cdf7470bdce46.mp4",
       "source_size": 101945233,
       "source_mtime": 1762679108.3349588,
@@ -45,7 +48,8 @@
       "looping": false,
       "muted": false,
       "show_border": true,
-      "was_playing": true
+      "was_playing": false,
+      "cache_enabled": true
     },
     {
       "node_id": 0,
@@ -78,16 +82,38 @@
       "label": "Order And Chaos",
       "depth_front": false,
       "node_tint": "#2a3a2f"
+    },
+    {
+      "node_id": 0,
+      "node_type": "about",
+      "title": "Note",
+      "uuid": "5d1cb861f4dd4ab5b116d328e9320f54",
+      "x": 1388.2605986916687,
+      "y": 445.6771193276806,
+      "width": 1034.0,
+      "height": 29.0,
+      "z_value": -9.995000000000003,
+      "ports_visible": false,
+      "shelf_visible": false,
+      "label": "source missing \u2014 playing from cache\n2744b5957b1c3c11ac53489da4bf322c460c09612bd5ba3e8d1cdf7470bdce46.mp4",
+      "depth_front": false,
+      "node_tint": ""
     }
   ],
-  "connections": [],
+  "connections": [
+    {
+      "start_uuid": "76b3ef2c53e1461390750e0efbbe6122",
+      "end_uuid": "5d1cb861f4dd4ab5b116d328e9320f54"
+    }
+  ],
   "viewport": {
-    "camera_x": 1948.4431096943931,
-    "camera_y": 562.696932541053,
+    "camera_x": 1478.129255630229,
+    "camera_y": 216.26038825271814,
     "camera_zoom": 0.47627769852903423
   },
   "ui_migrations": [
     "image_border_default_on_v1"
   ],
-  "checksum": "a794f081292f8bb6"
+  "last_browse_dirs": {},
+  "checksum": "547af47653d53ace"
 }
